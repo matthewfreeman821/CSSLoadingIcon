@@ -18,3 +18,13 @@ h2 {
     margin: 4em;
     text-align: center;
 }
+
+.loader {
+    margin: auto;
+    border: 16px solid #BDC3C7;
+    width: 120px;
+    height: 120px;
+    border-top-color: #1ABC9C;
+    border-bottom-color: #3498DB;
+    border-radius: 50%;
+}
